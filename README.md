@@ -1,2 +1,4 @@
-# dio-desafio-github-repositorio-dio
-Desafio de Projeto - DIO - Git/Github
+# Dio-desafio-github-repositorio-Dio
+## Desafio de Projeto - DIO - Git/Github
+
+Começando a aprender essa tecnologia essencial
